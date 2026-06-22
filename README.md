@@ -37,3 +37,9 @@ How has outlet performance changed over time?
 🎯 Project Objective
 
 The goal of this dashboard is to provide stakeholders with a centralized view of Blinkit's operational and sales performance, helping identify growth opportunities, optimize inventory decisions, and improve outlet-level strategies.
+
+📷 Dashboard Preview
+https://github.com/manvendrasingh40/Blinkit-Dashboard-/blob/main/Blinkit.power%20bi_dashboard.png
+
+🔖 Tags
+Power BI Data Analytics Dashboard Business Intelligence DAX Data Visualization Retail Analytics Blinkit
